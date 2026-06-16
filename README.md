@@ -1,31 +1,38 @@
 # Lavkesh Dwivedi
 
-**Cloud-native systems · Agentic AI · Mentoring engineers**
+**Cloud-native systems · Agentic AI · Full-stack**
 
-I build systems that run reliably at scale and agents that work autonomously. Currently focused on the intersection of AI tooling and developer infrastructure, making complex workflows disappear into a single command.
+I build systems that run reliably at scale and agents that work autonomously. Currently focused on the intersection of AI tooling and developer infrastructure.
 
-### What I'm working on
+### What I'm building
 
-- Contributing to [**career-ops**](https://github.com/santifer/career-ops): a 54k-star agentic AI job search pipeline (bug fixes, safety improvements, cross-platform support)
+- [**Bolo**](https://bolo.lavkesh.com): bilingual speech and vocabulary app for toddlers (English + Hindi, Web Speech API, PWA)
+- [**geo-pulse**](https://pulse.lavkesh.com): signal-first geopolitics briefs with automated hourly updates (Python, GitHub Actions)
 - [**awesome-design-md**](https://github.com/lavkeshdwivedi/awesome-design-md): design system specs as markdown files for AI coding agents
-- [**geo-pulse**](https://github.com/lavkeshdwivedi/geo-pulse): geospatial event processing
+- [**BVSA**](https://bvsaorai.org): nonprofit site for a rural ashram in Bundelkhand, optimized for slow connections (PWA)
+- [**Planning Poker**](https://poker.lavkesh.com): real-time agile estimation tool (Firebase Realtime DB)
 
 ### Tech
 
 ```
 Languages   Node.js · Go · C# · Python · SQL
-Infra       Kubernetes · Docker · cloud-native
+Infra       Kubernetes · Docker · cloud-native · GitHub Actions
 AI / Agents Claude Code · MCP · agentic workflows
 ```
 
-### Recent OSS contributions
+### OSS contributions
 
-| Repo | Fix |
-|------|-----|
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Auto-create pipeline.md + fix Playwright doctor check |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Guard user files during update rollback |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Fix merge-tracker report-number cross-company collision |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Fix three git-safety bugs in the updater |
+| Repo | Contribution |
+|------|-------------|
+| [santifer/career-ops](https://github.com/santifer/career-ops) | Fix three git-safety bugs in the updater (stash, scoped commits, revert guard) |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | Guard report-number dedup with company check |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | Treat missing user-layer prerequisites as warnings |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | Add build:dashboard and serve:dashboard npm scripts |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | Materialize symlink entrypoints as real files on Windows |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | Preserve user files during safety-violation rollback |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | Auto-create data/pipeline.md + fix Playwright doctor check |
+| [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics/pull/563) | Add IWebHostBuilder extensions for .NET metrics |
+| [minio/minio-dotnet](https://github.com/minio/minio-dotnet/pull/521) | Fix stream disposal bug in ToXML method |
 
 [![lavkesh.com](https://img.shields.io/badge/lavkesh.com-000?style=flat&logo=About.me&logoColor=white)](https://lavkesh.com)
 [![Twitter](https://img.shields.io/badge/@lavkeshdwivedi-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lavkeshdwivedi)
