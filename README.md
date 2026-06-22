@@ -25,7 +25,8 @@ AI / Agents Claude Code • MCP • agentic workflows
 <!-- OSS_CONTRIBUTIONS_START -->
 | Repo | Contribution |
 |------|-------------|
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 7 merged PRs — git-safety fixes, Windows symlink handling, dashboard scripts, rollback guard |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 2 merged PRs — technical job-search skill, technical interview prep coaching agent |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 8 merged PRs — git-safety fixes, Windows symlink handling, dashboard scripts, rollback guard, interview-prep contract coverage |
 | [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics/pull/563) | Add IWebHostBuilder extensions for .NET metrics |
 | [minio/minio-dotnet](https://github.com/minio/minio-dotnet/pull/521) | Fix stream disposal bug in ToXML method |
 <!-- OSS_CONTRIBUTIONS_END -->
