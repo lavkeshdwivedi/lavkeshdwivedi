@@ -26,13 +26,7 @@ AI / Agents Claude Code • MCP • agentic workflows
 <!-- OSS_CONTRIBUTIONS_START -->
 | Repo | Contribution |
 |------|-------------|
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Fix three git-safety bugs in the updater (stash, scoped commits, revert guard) |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Guard report-number dedup with company check |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Treat missing user-layer prerequisites as warnings |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Add build:dashboard and serve:dashboard npm scripts |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Materialize symlink entrypoints as real files on Windows |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Preserve user files during safety-violation rollback |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | Auto-create data/pipeline.md + fix Playwright doctor check |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 7 merged PRs — git-safety fixes, Windows symlink handling, dashboard scripts, rollback guard |
 | [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics/pull/563) | Add IWebHostBuilder extensions for .NET metrics |
 | [minio/minio-dotnet](https://github.com/minio/minio-dotnet/pull/521) | Fix stream disposal bug in ToXML method |
 <!-- OSS_CONTRIBUTIONS_END -->
