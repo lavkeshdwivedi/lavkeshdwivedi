@@ -1,8 +1,8 @@
 # Lavkesh Dwivedi
 
-**Cloud-native systems 🌩 Agentic AI 🤖 Full-stack**
+**Cloud-native systems · Agentic AI security · Full-stack**
 
-I build systems that run reliably at scale and agents that work autonomously. Currently focused on the intersection of AI tooling and developer infrastructure.
+I build systems that run reliably at scale and agents that work autonomously. Currently focused on agentic AI safety research and the tooling around it — identifying how autonomous agents break out of their guardrails, and building the detectors, evals, and probes that catch it.
 
 ### What I'm building
 
@@ -23,6 +23,20 @@ AI / Agents Claude Code • MCP • agentic workflows
 ### OSS contributions
 
 <!-- OSS_CONTRIBUTIONS_START -->
+**AI safety / agentic security** (from [Dwivedi 2025](https://github.com/lavkeshdwivedi/agent-escape-lab) empirical research across 29 models)
+
+| Repo | PR | What |
+|------|----|------|
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1918](https://github.com/NVIDIA/garak/pull/1918) | Multi-turn persona injection probe + detector (C2 — gradual identity substitution) |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1920](https://github.com/NVIDIA/garak/pull/1920) | Fix: retag AgentBreaker from owasp:llm07/08 → owasp:llm06 |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1921](https://github.com/NVIDIA/garak/pull/1921) | Fix: guard against non-string output.text in promptinject detector |
+| [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) | [#4428](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4428) | Agent escalation eval task (C4 — autonomous constraint modification) |
+| [protectai/llm-guard](https://github.com/protectai/llm-guard) | [#350](https://github.com/protectai/llm-guard/pull/350) | `AgentEscalation` rule-based output scanner (C4) |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | [#2855](https://github.com/confident-ai/deepeval/pull/2855) | `AgentEscalationMetric` LLM-judge metric (C4) |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [#10008](https://github.com/promptfoo/promptfoo/pull/10008) | `persona-injection` redteam plugin (C2) |
+
+**Other**
+
 | Repo | Contribution |
 |------|-------------|
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 2 merged PRs — technical job-search skill, technical interview prep coaching agent |
