@@ -2,7 +2,7 @@
 
 **Agentic AI security · Cloud-native systems · Full-stack**
 
-I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans four attack categories (C1-C4), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, deepeval, promptfoo, and openclaw.
+I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans seven attack categories (C1-C7), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, llm-guard, deepeval, promptfoo, and inspect_evals.
 
 ### What I'm building
 
@@ -23,18 +23,24 @@ AI / Agents Claude Code · MCP · agentic workflows
 ### OSS contributions
 
 <!-- OSS_CONTRIBUTIONS_START -->
-**AI safety / agentic security** ([Dwivedi 2026, preprint](https://github.com/lavkeshdwivedi/agent-escape-lab): empirical research across 29 models and 8 providers)
+**AI safety / agentic security** ([Dwivedi 2026, preprint](https://github.com/lavkeshdwivedi/agent-escape-lab): empirical research across 29 models and 8 providers, C1-C7)
 
 | Repo | PR | What |
 |------|----|------|
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1918](https://github.com/NVIDIA/garak/pull/1918) | Multi-turn persona injection probe + detector (C2: gradual identity substitution) |
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1920](https://github.com/NVIDIA/garak/pull/1920) | Fix: retag AgentBreaker from owasp:llm07/08 to owasp:llm06 |
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1921](https://github.com/NVIDIA/garak/pull/1921) | Fix: coerce non-string REST response values to str in RestGenerator |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97107](https://github.com/openclaw/openclaw/pull/97107) | Fix: bypass fail-closed interpreter heuristic when security=full |
-| [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) | [#4428](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4428) | Agent escalation eval task (C4: autonomous constraint modification) |
-| [protectai/llm-guard](https://github.com/protectai/llm-guard) | [#350](https://github.com/protectai/llm-guard/pull/350) | `AgentEscalation` rule-based output scanner (C4) |
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | [#2855](https://github.com/confident-ai/deepeval/pull/2855) | `AgentEscalationMetric` LLM-judge metric (C4) |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1918](https://github.com/NVIDIA/garak/pull/1918) | Multi-turn persona injection probe + detector (C2) |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1920](https://github.com/NVIDIA/garak/pull/1920) | Fix: retag AgentBreaker owasp:llm07/08 to owasp:llm06 |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1921](https://github.com/NVIDIA/garak/pull/1921) | Fix: coerce non-string REST response fields to str in RestGenerator |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | [#1925](https://github.com/NVIDIA/garak/pull/1925) | C5 multi-agent orchestrator trust exploitation probe |
 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [#10008](https://github.com/promptfoo/promptfoo/pull/10008) | `persona-injection` redteam plugin (C2) |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [#10020](https://github.com/promptfoo/promptfoo/pull/10020) | `orchestrator-trust-injection` redteam plugin (C5) |
+| [protectai/llm-guard](https://github.com/protectai/llm-guard) | [#350](https://github.com/protectai/llm-guard/pull/350) | `AgentEscalation` output scanner (C4) |
+| [protectai/llm-guard](https://github.com/protectai/llm-guard) | [#351](https://github.com/protectai/llm-guard/pull/351) | `AgentMemoryPoisoning` output scanner (C6) |
+| [protectai/llm-guard](https://github.com/protectai/llm-guard) | [#352](https://github.com/protectai/llm-guard/pull/352) | `CredentialExfiltration` output scanner (C7) |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | [#2855](https://github.com/confident-ai/deepeval/pull/2855) | `AgentEscalationMetric` LLM-judge metric (C4) |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | [#2863](https://github.com/confident-ai/deepeval/pull/2863) | `AgentMemoryPoisonMetric` LLM-judge metric (C6) |
+| [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | [#1906](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1906) | Register: AgentEscalationEval task (C4) |
+| [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | [#1907](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1907) | Register: OrchestratorTrustExploitationEval task (C5) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97107](https://github.com/openclaw/openclaw/pull/97107) | Fix: bypass fail-closed interpreter heuristic when security=full |
 
 **Other**
 
