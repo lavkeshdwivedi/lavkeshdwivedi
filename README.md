@@ -2,11 +2,11 @@
 
 **Agentic AI security · Cloud-native systems · Full-stack**
 
-I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans four attack categories (C1–C4), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, deepeval, promptfoo, and openclaw.
+I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans four attack categories (C1-C4), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, deepeval, promptfoo, and openclaw.
 
 ### What I'm building
 
-- [**Kogni·OS**](https://github.com/lavkeshdwivedi/kogniOS): Python agent framework, v1.0.0. SQLite-native RAG with FTS5, a readable ReAct loop, multi-provider support across Anthropic, OpenAI, Groq, and Gemini
+- [**Kogni·OS**](https://github.com/lavkeshdwivedi/kogniOS): Python agent framework, v1.1.0. SQLite-native RAG with FTS5, a readable ReAct loop, 8-provider support (Anthropic, OpenAI, Groq, Gemini, Mistral, Cohere, Ollama, Bedrock). [pip install kognios](https://pypi.org/project/kognios/)
 - [**Bolo**](https://bolo.lavkesh.com): bilingual speech and vocabulary app for toddlers (English + Hindi, Web Speech API, PWA)
 - [**geo-pulse**](https://pulse.lavkesh.com): signal-first geopolitics briefs with automated hourly updates (Python, GitHub Actions)
 - [**BVSA**](https://bvsaorai.org): site for a grassroots nonprofit in Bundelkhand, built as a PWA for slow rural connections
@@ -15,9 +15,9 @@ I run empirical safety research on autonomous agents and ship the tooling that o
 ### Tech
 
 ```
-Languages   Node.js • Go • C# • Python • SQL
-Infra       Kubernetes • Docker • cloud-native • GitHub Actions
-AI / Agents Claude Code • MCP • agentic workflows
+Languages   Node.js · Go · C# · Python · SQL
+Infra       Kubernetes · Docker · cloud-native · GitHub Actions
+AI / Agents Claude Code · MCP · agentic workflows
 ```
 
 ### OSS contributions
