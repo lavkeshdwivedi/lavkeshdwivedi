@@ -6,7 +6,7 @@ I run empirical safety research on autonomous agents and ship the tooling that o
 
 ### What I'm building
 
-- [**Kogni·OS**](https://github.com/lavkeshdwivedi/kogniOS): Python agent framework, v1.1.0. SQLite-native RAG with FTS5, a readable ReAct loop, 8-provider support (Anthropic, OpenAI, Groq, Gemini, Mistral, Cohere, Ollama, Bedrock). [pip install kognios](https://pypi.org/project/kognios/)
+- [**Kogni·OS**](https://github.com/lavkeshdwivedi/kogniOS) [![PyPI](https://img.shields.io/pypi/v/kognios.svg)](https://pypi.org/project/kognios/): Python agent framework built from scratch. SQLite-native RAG, readable ReAct loop, streaming, async, eval harness, HTTP serve, 9 providers (Anthropic, OpenAI, Groq, Gemini, Mistral, Cohere, Ollama, Bedrock, xAI)
 - [**Bolo**](https://bolo.lavkesh.com): bilingual speech and vocabulary app for toddlers (English + Hindi, Web Speech API, PWA)
 - [**geo-pulse**](https://pulse.lavkesh.com): signal-first geopolitics briefs with automated hourly updates (Python, GitHub Actions)
 - [**BVSA**](https://bvsaorai.org): site for a grassroots nonprofit in Bundelkhand, built as a PWA for slow rural connections
