@@ -1,11 +1,15 @@
 # Lavkesh Dwivedi
 
-**Agentic AI security · Cloud-native systems · Full-stack**
+**AI Solutions Architect · Forward Deployed AI Lead · Agentic AI security**
 
-I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans seven attack categories (C1-C7), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, llm-guard, deepeval, promptfoo, and inspect_evals.
+By day I lead AI architecture at [CloudTern Solutions](https://cloudtern.com), building agentic systems for regulated industries like insurance and financial services. Fifteen years of Python, .NET, and Azure before that, across Charles Schwab, Philips, and Microsoft.
+
+On the side, I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans seven attack categories (C1-C7), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, llm-guard, deepeval, promptfoo, and inspect_evals.
 
 ### What I'm building
 
+- [**PolisIQ**](https://polisiq.ai): agentic AI underwriting associate for insurance carriers and MGAs. Intake, Intelligence, Decision, and Orchestrator agents, document AI for PDF/Excel/ACORD, auditable guardrails (CloudTern)
+- [**Ansera AI**](https://ansera.ai): AI answer engine that turns websites into searchable knowledge bases, re-indexing within minutes of content changes (CloudTern)
 - [**Kogni·OS**](https://github.com/lavkeshdwivedi/kogniOS) [![PyPI](https://img.shields.io/pypi/v/kognios.svg)](https://pypi.org/project/kognios/): Python agent framework built from scratch. SQLite-native RAG, readable ReAct loop, streaming, async, eval harness, HTTP serve, 9 providers (Anthropic, OpenAI, Groq, Gemini, Mistral, Cohere, Ollama, Bedrock, xAI)
 - [**Bolo**](https://bolo.lavkesh.com): bilingual speech and vocabulary app for toddlers (English + Hindi, Web Speech API, PWA)
 - [**geo-pulse**](https://pulse.lavkesh.com): signal-first geopolitics briefs with automated hourly updates (Python, GitHub Actions)
@@ -15,9 +19,9 @@ I run empirical safety research on autonomous agents and ship the tooling that o
 ### Tech
 
 ```
-Languages   Node.js · Go · C# · Python · SQL
-Infra       Kubernetes · Docker · cloud-native · GitHub Actions
-AI / Agents Claude Code · MCP · agentic workflows
+Languages   Python · C# · .NET · TypeScript · Go · SQL
+Cloud       Azure · AWS · Kubernetes · Docker · GitHub Actions
+AI / Agents multi-agent orchestration · RAG · document AI · Azure OpenAI · MCP · Claude Code
 ```
 
 ### OSS contributions
@@ -53,4 +57,5 @@ AI / Agents Claude Code · MCP · agentic workflows
 <!-- OSS_CONTRIBUTIONS_END -->
 
 [![lavkesh.com](https://img.shields.io/badge/lavkesh.com-000?style=flat&logo=About.me&logoColor=white)](https://lavkesh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavkesh)
 [![Twitter](https://img.shields.io/badge/@lavkeshdwivedi-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lavkeshdwivedi)
