@@ -1,8 +1,8 @@
 # Lavkesh Dwivedi
 
-**AI Solutions Architect · Forward Deployed AI Lead · Agentic AI security**
+**Forward Deployed Engineer · Forward Deployed AI Lead · Agentic AI security**
 
-By day I lead AI architecture at [CloudTern Solutions](https://cloudtern.com), building agentic systems for regulated industries like insurance and financial services. Fifteen years of Python, .NET, and Azure before that, across Charles Schwab, Philips, and Microsoft.
+I'm a forward deployed engineer building agentic AI that holds up in production for regulated industries like financial services, insurance, and healthcare. Fifteen years of Python and .NET across Charles Schwab (Azure and Google Cloud with Vertex AI), Microsoft (Azure OpenAI, Semantic Kernel, LangChain), and Philips (AWS).
 
 On the side, I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans seven attack categories (C1-C7), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, llm-guard, deepeval, promptfoo, and inspect_evals.
 
@@ -20,8 +20,8 @@ On the side, I run empirical safety research on autonomous agents and ship the t
 
 ```
 Languages   Python · C# · .NET · TypeScript · Go · SQL
-Cloud       Azure · AWS · Kubernetes · Docker · GitHub Actions
-AI / Agents multi-agent orchestration · RAG · document AI · Azure OpenAI · MCP · Claude Code
+Cloud       GCP · Azure · AWS · Kubernetes · Helm · Docker · GitHub Actions
+AI / Agents multi-agent orchestration · RAG · document AI · Vertex AI · Gemini · Azure OpenAI · LangChain · Semantic Kernel · MCP · Claude Code
 ```
 
 ### OSS contributions
