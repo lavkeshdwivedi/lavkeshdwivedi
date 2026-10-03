@@ -8,8 +8,8 @@ On the side, I run empirical safety research on autonomous agents and ship the t
 
 ### What I'm building
 
-- [**PolisIQ**](https://polisiq.ai): agentic AI underwriting associate for insurance carriers and MGAs. Intake, Intelligence, Decision, and Orchestrator agents, document AI for PDF/Excel/ACORD, auditable guardrails (CloudTern)
-- [**Ansera AI**](https://ansera.ai): AI answer engine that turns websites into searchable knowledge bases, re-indexing within minutes of content changes (CloudTern)
+- [**PolisIQ**](https://polisiq.ai): agentic AI underwriting associate for insurance carriers and MGAs. Intake, Intelligence, Decision, and Orchestrator agents, document AI for PDF/Excel/ACORD, auditable guardrails
+- [**Ansera AI**](https://ansera.ai): AI answer engine that turns websites into searchable knowledge bases, re-indexing within minutes of content changes
 - [**Kogni·OS**](https://github.com/lavkeshdwivedi/kogniOS) [![PyPI](https://img.shields.io/pypi/v/kognios.svg)](https://pypi.org/project/kognios/): Python agent framework built from scratch. SQLite-native RAG, readable ReAct loop, streaming, async, eval harness, HTTP serve, 9 providers (Anthropic, OpenAI, Groq, Gemini, Mistral, Cohere, Ollama, Bedrock, xAI)
 - [**Bolo**](https://bolo.lavkesh.com): bilingual speech and vocabulary app for toddlers (English + Hindi, Web Speech API, PWA)
 - [**geo-pulse**](https://pulse.lavkesh.com): signal-first geopolitics briefs with automated hourly updates (Python, GitHub Actions)
