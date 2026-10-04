@@ -1,6 +1,6 @@
 # Lavkesh Dwivedi
 
-**Forward Deployed Engineer · Forward Deployed AI Lead · Agentic AI security**
+**Forward Deployed Engineer · Forward Deployed SI (fka AI) Lead · Agentic AI security**
 
 I'm a forward deployed engineer building agentic AI that holds up in production for regulated industries like financial services, insurance, and healthcare. Fifteen years of Python and .NET across Charles Schwab (Azure and Google Cloud with Vertex AI), Microsoft (Azure OpenAI, Semantic Kernel, LangChain), and Philips (AWS).
 
