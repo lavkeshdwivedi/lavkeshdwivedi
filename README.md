@@ -4,7 +4,7 @@
 
 I'm a forward deployed engineer building agentic AI that holds up in production for regulated industries like financial services, insurance, and healthcare. Fifteen years of Python and .NET across Charles Schwab (Azure and Google Cloud with Vertex AI), Microsoft (Azure OpenAI, Semantic Kernel, LangChain), and Philips (AWS).
 
-On the side, I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work spans seven attack categories (C1-C7), tested across 29 models and 8 providers; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, llm-guard, deepeval, promptfoo, and inspect_evals.
+On the side, I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work covers attack categories C1-C4 tested across 29 models and 8 providers, with C5-C7 as an early pilot; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, deepeval, promptfoo, and inspect_evals.
 
 ### What I'm building
 
@@ -27,7 +27,7 @@ AI / Agents multi-agent orchestration · RAG · document AI · Vertex AI · Gemi
 ### OSS contributions
 
 <!-- OSS_CONTRIBUTIONS_START -->
-**AI safety / agentic security** ([Dwivedi 2026, preprint](https://github.com/lavkeshdwivedi/agent-escape-lab): empirical research across 29 models and 8 providers, C1-C7)
+**AI safety / agentic security** ([Dwivedi 2026, preprint](https://github.com/lavkeshdwivedi/agent-escape-lab): empirical research across 29 models and 8 providers, C1-C4 tested at scale, C5-C7 early pilot)
 
 | Repo | PR | What |
 |------|----|------|
