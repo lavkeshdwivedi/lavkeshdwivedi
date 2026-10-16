@@ -6,6 +6,8 @@ I'm a forward deployed engineer building agentic AI that holds up in production 
 
 On the side, I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work covers attack categories C1-C4 tested across 29 models and 8 providers, with C5-C7 as an early pilot; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, deepeval, promptfoo, and inspect_evals.
 
+I also wrote [The Visibility Tax](https://lavkesh.com/book), a book about staying an individual contributor on purpose in a career built to push you into management.
+
 ### What I'm building
 
 - [**PolisIQ**](https://polisiq.ai): agentic AI underwriting associate for insurance carriers and MGAs. Intake, Intelligence, Decision, and Orchestrator agents, document AI for PDF/Excel/ACORD, auditable guardrails
