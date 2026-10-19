@@ -1,8 +1,8 @@
 # Lavkesh Dwivedi
 
-**Forward Deployed Engineer · Forward Deployed AI Lead · Agentic AI security**
+**AI Architect · Technical Lead · Agentic AI security**
 
-I'm a forward deployed engineer building agentic AI that holds up in production for regulated industries like financial services, insurance, and healthcare. Fifteen years of Python and .NET across Charles Schwab (Azure and Google Cloud with Vertex AI), Microsoft (Azure OpenAI, Semantic Kernel, LangChain), and Philips (AWS).
+I'm a hands-on AI architect and technical lead building agentic AI that holds up in production for regulated industries like financial services, insurance, and healthcare. Fifteen years of Python and .NET across Charles Schwab (Azure and Google Cloud with Vertex AI), Microsoft (Azure OpenAI, Semantic Kernel, LangChain), and Philips (AWS).
 
 On the side, I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work covers attack categories C1-C4 tested across 29 models and 8 providers, with C5-C7 as an early pilot; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, deepeval, promptfoo, and inspect_evals.
 
@@ -25,6 +25,13 @@ Languages   Python · C# · .NET · TypeScript · Go · SQL
 Cloud       GCP · Azure · AWS · Kubernetes · Helm · Docker · GitHub Actions
 AI / Agents multi-agent orchestration · RAG · document AI · Vertex AI · Gemini · Azure OpenAI · LangChain · Semantic Kernel · MCP · Claude Code
 ```
+
+### Certifications
+
+- [Create Your First Gemini Enterprise Application](https://www.credly.com/badges/943ce101-58f7-46a8-988a-dc8c83796345/linked_in_profile), Google (Oct 2026)
+- Anthropic Claude Academy (Oct 2026): [Introduction to Claude Cowork](https://academy.claude.com/verify/0fa29dc29855be7e47edf467bea39bc5), [Claude 101](https://academy.claude.com/verify/ae75a374da621e966776d34b47790b8b), [AI Fluency for builders](https://academy.claude.com/verify/2510d3521aadd73bd11ea89750aa1fb5), [Building effective human-agent teams](https://academy.claude.com/verify/3be3cdb9ef154258760b8e3e39b22954), [AI capabilities and limitations](https://academy.claude.com/verify/6fe9914178e97ecb16ea1904d9c4105a), [AI Fluency: Framework and foundations](https://academy.claude.com/verify/7c96fe209a5ff01e86071b15b0134ceb)
+- [Claude Code in action](https://academy.claude.com/verify/0d9f1615df373ef9743fea529ad6401d), Anthropic (Jul 2026)
+- HackerRank: [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/953b5a97abdc), [C#](https://www.hackerrank.com/certificates/9ac3fea0c94f)
 
 ### OSS contributions
 
