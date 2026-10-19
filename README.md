@@ -1,8 +1,8 @@
 # Lavkesh Dwivedi
 
-**Forward Deployed Engineer · Forward Deployed AI Lead · Agentic AI security**
+**AI Architect · Technical Lead · Agentic AI security**
 
-I'm a forward deployed engineer building agentic AI that holds up in production for regulated industries like financial services, insurance, and healthcare. Fifteen years of Python and .NET across Charles Schwab (Azure and Google Cloud with Vertex AI), Microsoft (Azure OpenAI, Semantic Kernel, LangChain), and Philips (AWS).
+I'm a hands-on AI architect and technical lead building agentic AI that holds up in production for regulated industries like financial services, insurance, and healthcare. Fifteen years of Python and .NET across Charles Schwab (Azure and Google Cloud with Vertex AI), Microsoft (Azure OpenAI, Semantic Kernel, LangChain), and Philips (AWS).
 
 On the side, I run empirical safety research on autonomous agents and ship the tooling that operationalizes it. Current work covers attack categories C1-C4 tested across 29 models and 8 providers, with C5-C7 as an early pilot; the findings feed into production-ready detectors, evals, and red-team plugins contributed to garak, deepeval, promptfoo, and inspect_evals.
 
