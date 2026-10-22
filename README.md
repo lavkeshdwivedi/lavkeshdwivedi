@@ -28,6 +28,7 @@ AI / Agents multi-agent orchestration · RAG · document AI · Vertex AI · Gemi
 
 ### Certifications
 
+- Claude Certified Architect - Professional, Anthropic (Oct 2026)
 - [Create Your First Gemini Enterprise Application](https://www.credly.com/badges/943ce101-58f7-46a8-988a-dc8c83796345/linked_in_profile), Google (Oct 2026)
 - Anthropic Claude Academy (Oct 2026): [Introduction to Claude Cowork](https://academy.claude.com/verify/0fa29dc29855be7e47edf467bea39bc5), [Claude 101](https://academy.claude.com/verify/ae75a374da621e966776d34b47790b8b), [AI Fluency for builders](https://academy.claude.com/verify/2510d3521aadd73bd11ea89750aa1fb5), [Building effective human-agent teams](https://academy.claude.com/verify/3be3cdb9ef154258760b8e3e39b22954), [AI capabilities and limitations](https://academy.claude.com/verify/6fe9914178e97ecb16ea1904d9c4105a), [AI Fluency: Framework and foundations](https://academy.claude.com/verify/7c96fe209a5ff01e86071b15b0134ceb)
 - [Claude Code in action](https://academy.claude.com/verify/0d9f1615df373ef9743fea529ad6401d), Anthropic (Jul 2026)
